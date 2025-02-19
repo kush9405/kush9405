@@ -7,7 +7,7 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 - 🌱 I’m currently learning **Machine Learning** and **Cloud Computing**.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about **Python**, **JavaScript**, and **Web Development**.
-- 📫 How to reach me: [Email](mailto:kush9405@example.com)
+- 📫 How to reach me: [Email](mailto:kushagraagarwal2003@gmail.com)
 - ⚡ Fun fact: I love playing chess and reading about astrophysics.
 - 🚀 Currently working on some out-of-this-world projects!
 
@@ -57,11 +57,11 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 
 ---
 
-### 🏆 Recent Projects
+<!-- ### 🏆 Recent Projects
 
 - **Project 1:** Description of project 1.
 - **Project 2:** Description of project 2.
-- **Project 3:** Description of project 3.
+- **Project 3:** Description of project 3. -->
 
 Feel free to check out my repositories and contribute to my projects. Let's build something amazing together!
 
