@@ -9,16 +9,43 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 - 💬 Ask me about **Python**, **JavaScript**, and **Web Development**.
 - 📫 How to reach me: [Email](mailto:kush9405@example.com)
 - ⚡ Fun fact: I love playing chess and reading about astrophysics.
+- 🚀 Currently working on some out-of-this-world projects!
+
+### 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-0A192F?style=flat&logo=deep-learning)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 ### GitHub Stats
 
 ![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush9405&show_icons=true&theme=radical)
-
-### Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kush9405&layout=compact&theme=radical)
 
-### Connect with me:
+### 🛠️ Tools & Technologies
+
+- **IDE**: Visual Studio Code, PyCharm
+- **Version Control**: Git & GitHub
+- **CI/CD**: GitHub Actions, Jenkins
+- **Containers**: Docker, Kubernetes
+- **Cloud**: AWS, GCP
+
+### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kush9405)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kush9405)
@@ -33,3 +60,8 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 - **Project 3:** Description of project 3.
 
 Feel free to check out my repositories and contribute to my projects. Let's build something amazing together!
+
+### 🕒 Last Updated
+
+*This README was last updated on 2025-02-19 18:26:27 (UTC).*
+```` ▋
