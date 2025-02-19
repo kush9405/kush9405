@@ -37,6 +37,10 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 ![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush9405&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kush9405&layout=compact&theme=radical)
 
+### 🎮 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kush9405&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🛠️ Tools & Technologies
 
 - **IDE**: Visual Studio Code, PyCharm
@@ -53,7 +57,7 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 
 ---
 
-### Recent Projects
+### 🏆 Recent Projects
 
 - **Project 1:** Description of project 1.
 - **Project 2:** Description of project 2.
@@ -61,7 +65,27 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 
 Feel free to check out my repositories and contribute to my projects. Let's build something amazing together!
 
+### 📈 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kush9405&theme=radical)](https://git.io/streak-stats)
+
+### ✨ Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/kush9405/count.svg)
+
+### 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       15 hrs 30 mins ████████████████▓░░░░░░░░   66.00 %
+JavaScript    4 hrs 20 mins ███▓░░░░░░░░░░░░░░░░░░░░░   18.50 %
+HTML          1 hr 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+CSS           1 hr           █▓░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Other         40 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+```
+<!--END_SECTION:waka-->
+
 ### 🕒 Last Updated
 
-*This README was last updated on 2025-02-19 18:26:27 (UTC).*
+*This README was last updated on 2025-02-19 18:29:25 (UTC).*
 ```` ▋
