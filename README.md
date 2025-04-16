@@ -1,5 +1,5 @@
 ![snake](https://github.com/user-attachments/assets/144ee368-9e2a-4af2-a2b0-88aa3b959c44)
-### Hi there, I'm Kush 👋
+# Hi there, I'm Kush 👋
 
 ---
 
