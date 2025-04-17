@@ -66,10 +66,11 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 
 Feel free to check out my repositories and contribute to my projects. Let's build something amazing together!
 
+<!-- 
 ### 📈 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kush9405&theme=radical)](https://git.io/streak-stats)
-
+-->
 ### ✨ Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/kush9405/count.svg)
