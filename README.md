@@ -54,7 +54,7 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kush9405)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kush9405)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/kush9405)
+<!--[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/kush9405) -->
 
 ---
 
@@ -75,19 +75,4 @@ Feel free to check out my repositories and contribute to my projects. Let's buil
 
 ![Visitor Count](https://profile-counter.glitch.me/kush9405/count.svg)
 
-### 📅 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       15 hrs 30 mins ████████████████▓░░░░░░░░   66.00 %
-JavaScript    4 hrs 20 mins ███▓░░░░░░░░░░░░░░░░░░░░░   18.50 %
-HTML          1 hr 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-CSS           1 hr           █▓░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Other         40 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-```
-<!--END_SECTION:waka-->
-
-### 🕒 Last Updated
-
-*This README was last updated on 2025-02-19 18:29:25 (UTC).*
 ```` ▋
