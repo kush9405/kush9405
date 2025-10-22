@@ -38,10 +38,6 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 ![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush9405&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kush9405&layout=compact&theme=radical)
 
-### 🎮 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kush9405&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🛠️ Tools & Technologies
 
 - **IDE**: Visual Studio Code, PyCharm
@@ -56,7 +52,6 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kush9405)
 <!--[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/kush9405) -->
 
----
 
 <!-- ### 🏆 Recent Projects
 
@@ -71,8 +66,4 @@ Feel free to check out my repositories and contribute to my projects. Let's buil
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kush9405&theme=radical)](https://git.io/streak-stats)
 -->
-### ✨ Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/kush9405/count.svg)
-
 ```` ▋
